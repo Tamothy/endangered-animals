@@ -1,0 +1,103 @@
+body {
+  background-image: url('../img/map1.jpg');
+  background-repeat: no-repeat;
+  position: absolute;
+}
+
+h1 {
+  position: absolute;
+  left: 600px;
+  top: 200px;
+  text-align: center;
+  color: #EC5D62;
+}
+
+img {
+  filter: grayscale(100%);
+}
+
+img:hover {
+  transform: scale(3);
+  filter: grayscale(0%);
+}
+
+.chamois {
+  width: 50px;
+  border-radius: 50%;
+  position: absolute;
+  left: 990px;
+  top: 200px;
+}
+
+.cougar {
+  width: 50px;
+  border-radius: 50%;
+  position: absolute;
+  left: 300px;
+  top: 200px;
+}
+
+.donkey {
+  width: 100px;
+  border-radius: 50%;
+  position: absolute;
+  left: 1000px;
+  top: 350px;
+}
+
+.jaguar {
+  width: 50px;
+  border-radius: 50%;
+  position: absolute;
+  left: 550px;
+  top: 400px;
+}
+
+.kangaroo {
+  width: 50px;
+  border-radius: 50%;
+  position: absolute;
+  left: 1600px;
+  top: 520px;
+}
+
+
+.monkey {
+  width: 50px;
+  border-radius: 50%;
+  position: absolute;
+  left: 625px;
+  top: 460px;
+}
+
+.panda {
+  width: 50px;
+  border-radius: 50%;
+  position: absolute;
+  left: 1450px;
+  top: 250px;
+}
+
+.seal {
+  width: 50px;
+  border-radius: 50%;
+  position: absolute;
+  left: 125px;
+  top: 350px;
+}
+
+.snow {
+  width: 100px;
+  border-radius: 50%;
+  position: absolute;
+  left: 1300px;
+  top: 200px;
+}
+
+.whale {
+  width: 100px;
+  border-radius: 50%;
+  position: absolute;
+  left: 300px;
+  top: 820px;
+}
