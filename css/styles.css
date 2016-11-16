@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Six+Caps');
+
 body {
   background-image: url('../img/map1.jpg');
   background-repeat: no-repeat;
@@ -5,8 +7,10 @@ body {
 }
 
 h1 {
+  font-family: 'Six Caps', sans-serif;
+  font-size: 60px;
   position: absolute;
-  left: 600px;
+  left: 670px;
   top: 200px;
   text-align: center;
   color: #EC5D62;
